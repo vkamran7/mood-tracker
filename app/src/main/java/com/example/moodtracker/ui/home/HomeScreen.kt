@@ -13,7 +13,6 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.moodtracker.data.MoodRepository
 import com.example.moodtracker.domain.Mood
-import com.example.moodtracker.domain.Tags
 import com.example.moodtracker.util.todayIso
 
 @RequiresApi(Build.VERSION_CODES.O)
